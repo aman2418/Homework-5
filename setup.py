@@ -7,6 +7,6 @@ setup(
     author= "DSSS",
     author_email="aman.jaiswal2418@gmail.com",
     packages= find_packages(),
-    install_requires["numpy", "turtles"],
+    install_requires=["numpy", "turtles"],
 )
 
